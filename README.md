@@ -1,4 +1,4 @@
-# Unit_21_Homework_Assignment-
+# Solidity Crowdsale 
 
 ## Crowdsale
 Please refer to KaseiCoin.sol and KaseiCoinCrowdsale.sol for compiled code. 
