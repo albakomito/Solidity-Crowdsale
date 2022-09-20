@@ -2,8 +2,8 @@
 
 ## Source Files
 * Images folder: contains screenshots of successfully comppiled KaseiCoin contract crowdsale. 
-* KaseiCoin.sol : 
-* KaseiCoinCrowdsale.sol
+* KaseiCoin.sol : Code used to create KaseiCoin using ERC-20 protocol. 
+* KaseiCoinCrowdsale.sol : Code used to perform KaseiCoin crowdsale in Solidity. 
 
 ## Crowdsale
 Please refer to KaseiCoin.sol and KaseiCoinCrowdsale.sol for compiled code. 
