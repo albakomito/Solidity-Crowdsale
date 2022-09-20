@@ -1,9 +1,13 @@
 # Solidity Crowdsale 
 
+## Summary
+* In this project we create a new cryptocurrency using Ether and perform a crowd sale. 
+
 ## Source Files
 * Images folder: contains screenshots of successfully comppiled KaseiCoin contract crowdsale. 
 * KaseiCoin.sol : Code used to create KaseiCoin using ERC-20 protocol. 
 * KaseiCoinCrowdsale.sol : Code used to perform KaseiCoin crowdsale in Solidity. 
+* Note: please refer to both .sol files for full coding instructions. 
 
 ## Crowdsale
 Please refer to KaseiCoin.sol and KaseiCoinCrowdsale.sol for compiled code. 
