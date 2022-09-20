@@ -1,5 +1,8 @@
 # Solidity Crowdsale 
 
+## Source Files
+* Images folder: contains screenshots of successfully comppiled KaseiCoin contract crowdsale. 
+
 ## Crowdsale
 Please refer to KaseiCoin.sol and KaseiCoinCrowdsale.sol for compiled code. 
 
